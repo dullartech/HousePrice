@@ -72,7 +72,7 @@ model = pickle.load(open('housePriceModel.pkl', "rb"))
 
 st.markdown("<h1 style = 'color: #C70039; text-align: center; font-family: helvetica '>HOUSE PRICE PREDICTION</h1>", unsafe_allow_html = True)
 
-st.markdown("<h4 style = 'margin: -30px; color: #2B3499; text-align: center; font-family: cursive '>BUILT BY OLUWAYOMI ROSEMARY</h4>", unsafe_allow_html = True)
+st.markdown("<h4 style = 'margin: -30px; color: #2B3499; text-align: center; font-family: cursive '>BUILT BY DULLARTECH</h4>", unsafe_allow_html = True)
 
 st.image('pngwing.com (1).png', width = 500)
 
